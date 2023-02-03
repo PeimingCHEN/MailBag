@@ -32,7 +32,7 @@ Client <br>
 * Update the contact’s information<br>
 <img src="https://github.com/PeimingCHEN/MailBag/blob/main/images/Update.png" width="900"/><br/>
 
-* Trash View
+* Trash View<br>
 <img src="https://github.com/PeimingCHEN/MailBag/blob/main/images/Trash.png" width="900"/><br/>
 
 ## Reference
